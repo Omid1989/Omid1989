@@ -1,6 +1,10 @@
 ### Hi 👋 i am Omid.
 
 > Backend Developer.  
+ - `php`
+ - `laravel'
+ 
+
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Omid1989)](https://github.com/anuraghazra/github-readme-stats)
