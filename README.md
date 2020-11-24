@@ -2,7 +2,7 @@
 
 > Backend Developer.  
  - `php`
- - `laravel'
+ - `laravel`
  
 
 
