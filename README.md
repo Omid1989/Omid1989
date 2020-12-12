@@ -3,6 +3,7 @@
 > Backend Developer.  
  - `php`
  - `laravel`
+ - `react`
  
 
 
