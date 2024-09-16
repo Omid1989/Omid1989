@@ -2,10 +2,10 @@
 
 ## 💫 About Me:
 
-# I love to learn new things and communicating with new developers.
-# "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. – Albert Einstein 
-# Von gestern lernen, für heute leben, für morgen hoffen. Es ist wichtig, nicht aufzuhören, Fragen zu stellen.
-
+ " I love to learn new things and communicating with new developers.
+  Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. – Albert Einstein 
+  Von gestern lernen, für heute leben, für morgen hoffen. Es ist wichtig, nicht aufzuhören, Fragen zu stellen.
+"
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omid-ahmadi-6745801a6) 
 
