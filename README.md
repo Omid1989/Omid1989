@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
- " I love to learn new things and communicating with new developers.
+ " I am an experienced programmer in web software development. I am proficient in programming languages such as JavaScript and PHP, as well as popular frameworks and libraries like React and Laravel. I have the ability to solve problems and implement complex designs in both team and individual projects.
   Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. – Albert Einstein 
   Von gestern lernen, für heute leben, für morgen hoffen. Es ist wichtig, nicht aufzuhören, Fragen zu stellen.
 "
