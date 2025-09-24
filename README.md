@@ -1,10 +1,9 @@
-### Hi 👋 i am Omid.
+Hi there! 👋
+I’m a web developer passionate about bringing ideas to life and turning them into practical applications. I grew up coding with JavaScript and PHP, and today, React and Laravel are my magic toolbox for building anything I imagine.
+For me, coding is more than just a job – it’s a chance to solve complex puzzles, collaborate with creative teams, and never stop learning.
 
-## 💫 About Me:
-
- " I am an experienced programmer in web software development. I am proficient in programming languages such as JavaScript and PHP, as well as popular frameworks and libraries like React and Laravel. I have the ability to solve problems and implement complex designs in both team and individual projects.
-  Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. – Albert Einstein 
-  Von gestern lernen, für heute leben, für morgen hoffen. Es ist wichtig, nicht aufzuhören, Fragen zu stellen.
+✨ One quote that always inspires me is from Albert Einstein:
+“Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.”
 "
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omid-ahmadi-6745801a6) 
